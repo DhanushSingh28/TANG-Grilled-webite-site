@@ -1,0 +1,11 @@
+User-agent: *
+
+# Allow search engines to crawl the website
+Allow: /
+
+# Prevent access to private or unnecessary directories
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://dhanushsingh28.github.io/TANG-Grilled-webite-site/sitemap.xml

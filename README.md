@@ -13,6 +13,12 @@
 - Removed the Windows-only absolute image paths from Part 1 and replaced them with relative project paths.
 - Navigation links use explicit relative HTML paths and have been checked against the five-page site.
 
+## Design evidence
+The original wireframes remain in `images/` and were used as the structural reference for Part 2. They are not presented as customer-facing content; they document the intended layouts.
+
+## Content note
+Part 1 research states that menu contents and prices can change. The menu therefore avoids treating unverified prices as final website data. Contact details and opening hours should also be confirmed before publication.
+
 ## Changelog
 ### Part 2
 - Added external CSS stylesheet.
