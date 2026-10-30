@@ -1,4 +1,4 @@
-# WEDE5020W Part 2 — Tang Real Flame Grilled
+#  WEDE5020W Part 3 Final POE— Tang Real Flame Grilled
 
 ## Part 2 implementation
 - Added external `style.css` and linked all five HTML pages.
@@ -37,3 +37,14 @@ Part 1 research states that menu contents and prices can change. The menu theref
 
 ## References
 See `../Research/research_evidence.txt` from Part 1 for the research sources used for the business information.
+
+## Changelog
+### Part 3
+- Added a search path of the menu page.
+- Added site map page.
+- Added a main.js JavaScript file. 
+- Updated the full CSS file to the new updated pages. 
+- Added a clicked function that expands the information in the gallery page. 
+- Updated the enquiry page to add information like phone numbers and dates and time. 
+- Added buttons and we're more information in the menu page when clicking items. 
+- Added a link between the js for the search mapping.
